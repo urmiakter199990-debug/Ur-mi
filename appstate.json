@@ -5,8 +5,8 @@
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2025-08-18T00:06:09.008Z",
-        "lastAccessed": "2025-08-18T00:06:09.018Z"
+        "creation": "2025-08-18T09:20:04.395Z",
+        "lastAccessed": "2025-08-18T09:20:04.397Z"
     },
     {
         "key": "datr",
@@ -14,8 +14,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-18T00:06:09.018Z",
-        "lastAccessed": "2025-08-18T00:06:09.018Z"
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
     },
     {
         "key": "sb",
@@ -23,8 +23,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-18T00:06:09.018Z",
-        "lastAccessed": "2025-08-18T00:06:09.018Z"
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
     },
     {
         "key": "ps_l",
@@ -32,8 +32,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-18T00:06:09.018Z",
-        "lastAccessed": "2025-08-18T00:06:09.018Z"
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
     },
     {
         "key": "ps_n",
@@ -41,12 +41,82 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-18T00:06:09.018Z",
-        "lastAccessed": "2025-08-18T00:06:09.018Z"
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
     },
     {
         "key": "locale",
         "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    },
+    {
+        "key": "pas",
+        "value": "61578651416102%3AlGb1seXiQa",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B886x450x1.9424998760223389",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61578651416102",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    },
+    {
+        "key": "xs",
+        "value": "29%3Aml5wGn4AWB8zHg%3A2%3A1755449344%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    },
+    {
+        "key": "fr",
+        "value": "0xRz3OU1JogVo07px.AWdYHiNREoAZkglsYni0WvuAHIMaoxsVEhGio_qmAvj6YYqoxZc.BonGCv..AAA.0.0.BoovA9.AWfrorRwE1k6j2u1xGMjGnIuDTc",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101634142%3BT%3A29258479",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2896%3Btimestamp%3A1755508797",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-18T09:20:04.398Z",
+        "lastAccessed": "2025-08-18T09:20:04.398Z"
+    }
+]        "value": "en_US",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
